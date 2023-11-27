@@ -36,4 +36,4 @@ Datenschutz m231 von Lara Klomp
  -04 Verschlüsseln Sie sensitive Inhalte
    -Ich verschlüssle meine Daten und E-Mails
  -05 Sichern Sie Informationen und löschen Sie Daten vollständig
-   Ich lösche meine Inhalte auf dem PC richtig
+   -Ich lösche meine Inhalte auf dem PC richtig
