@@ -28,12 +28,12 @@ Datenschutz m231 von Lara Klomp
  - Link: https://www.datenschutz.ch/meine-daten-schuetzen/pc-sicherheit-erhoehen-in-fuenf-schritten
  - 01 Persönliche Informationen schützen
    -Ich gebe wenige Informationen über mich preis und lösche meinen Browserverlauf regelmässig
- -02 Angriffe abwehren
+ - 02 Angriffe abwehren
    -Ich mache regelmässig Windowsupdates und habe eine Firewall aktiviert
    -Ein Virenschutzprogramm habe ich auch
- -03 Zugriffe Unberechtigter verhindern
+ - 03 Zugriffe Unberechtigter verhindern
    -Ich verwende einen Passwortmanager und habe überall ein anderes Passwort
- -04 Verschlüsseln Sie sensitive Inhalte
+ - 04 Verschlüsseln Sie sensitive Inhalte
    -Ich verschlüssle meine Daten und E-Mails
- -05 Sichern Sie Informationen und löschen Sie Daten vollständig
+ - 05 Sichern Sie Informationen und löschen Sie Daten vollständig
    -Ich lösche meine Inhalte auf dem PC richtig
